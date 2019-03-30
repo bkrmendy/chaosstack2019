@@ -9,7 +9,7 @@ README
 - NeuralNetwork training data visualisation
 - Funbot
 - Fox detector
-- Help the team to find errors
+- Help the team to find errors - Dani
 - Obsessive placement - Berci
 - Perfect Timing
 - Design Spree - QKAin
